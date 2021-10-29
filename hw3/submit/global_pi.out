@@ -1,0 +1,19 @@
+==========================================
+SLURM_JOB_ID = 5998317
+SLURM_JOB_NODELIST = d18-[18-21]
+TMPDIR = /tmp/SLURM_5998317
+==========================================
+##### Strong scaling #####
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 4 7.625201e-01
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 2 1.445885e+00
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 1 2.723703e+00
+##### Weak scaling   #####
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 4 2.792012e+00
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 2 2.761731e+00
+Pi = 3.141593e+00
+NProcs & Execution time (s) = 1 2.750301e+00
